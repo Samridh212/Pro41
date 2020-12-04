@@ -1,0 +1,7 @@
+class  Protection{
+  constructor(){
+
+  }  
+  display(){
+  }
+}
